@@ -1,0 +1,14 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "Simple social media API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
